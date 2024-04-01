@@ -36,8 +36,7 @@ We can see that there is a new folder under the directory. By default, Excel und
 
 
 
-##ExcelToDatabase Introduction and Download
+## ExcelToDatabase Introduction and Download
 
-- 
 [ExcelToDatabase - Automatic tool for batch importing Excel files to database](https://github.com/ryjfgjl/ExcelToDatabase/blob/master/README.md)
  
