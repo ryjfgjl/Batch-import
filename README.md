@@ -1,4 +1,4 @@
-##Batch import of multiple excel files into the database
+## Batch import of multiple excel files into the database
 **Abstract**: If we have dozens or hundreds of excel to import into the database, if we use the excel import function provided by database editors such as navicat, it will be extremely tedious and time-consuming to manually import one by one. Here we use [ExcelToDatabase](https://github.com/ryjfgjl/ExcelToDatabase/blob/master/README.md)Tools can be directly imported in batches, and it is just fine to hand over all to the tools for automatic import, completely freeing your hands!
 ##Example of use
 As shown in the figure, I need to import all excel files under the folder into the database
